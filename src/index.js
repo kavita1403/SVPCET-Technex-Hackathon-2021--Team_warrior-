@@ -11,3 +11,8 @@ ReactDOM.render(
   
   document.getElementById('root')
 );
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
